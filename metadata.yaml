@@ -1,0 +1,33 @@
+_repo: Le-prince-corsaire_20325
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scarron, Paul
+    aliases:
+    - Scaron, Paul
+    - Scarron, Monsieur
+    birthdate: 1610
+    deathdate: 1660
+    gutenberg_agent_id: '9234'
+    url: http://www.gutenberg.org/2009/agents/9234
+    wikipedia: http://fr.wikipedia.org/wiki/Paul_Scarron
+description: ''
+gutenberg_bookshelf:
+- Pirates, Buccaneers, Corsairs, etc.
+- FR Théâtre
+gutenberg_issued: '2007-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20325'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French drama'
+title: Le prince corsaire
+url: http://www.gutenberg.org/ebooks/20325
