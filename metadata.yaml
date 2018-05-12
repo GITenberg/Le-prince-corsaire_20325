@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9234
     wikipedia: http://fr.wikipedia.org/wiki/Paul_Scarron
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20325#Le-prince-corsaire
 gutenberg_bookshelf:
 - Pirates, Buccaneers, Corsairs, etc.
 - FR Théâtre
